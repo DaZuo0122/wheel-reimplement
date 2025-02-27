@@ -2,7 +2,7 @@
 Learn CS foundations by reimplementing wheels
 ## Repo overview
 - `simple-dns` A synchronous dual-stack DNS client.
-- `rsos` A simple x86_64 operating system built with rust `no_std`
+- `rsos` A simple x86_64 operating system built with rust `no_std`. It supports both linked list(default) and fixed size block as memory manager, and asynchronous task execution.
 
 ## Additional Notes
 ### rsos
